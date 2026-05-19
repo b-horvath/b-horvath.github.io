@@ -1,5 +1,9 @@
 # b-horvath.github.io
 
+Resources that helped me during my masters studies:
+
+[LaTeX to Image] - for inserting into ppt (https://latex2image.joeraut.com/)
+
 
 Resources:
 https://jekyllrb.com/resources/
