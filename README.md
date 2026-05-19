@@ -2,7 +2,7 @@
 
 Resources that helped me during my masters studies:
 
-[LaTeX to Image] - for inserting into ppt (https://latex2image.joeraut.com/)
+[LaTeX to Image](https://latex2image.joeraut.com/) - for inserting into ppt 
 
 
 Resources:
