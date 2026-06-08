@@ -6,6 +6,8 @@ Resources that helped me during my masters studies:
 
 
 Resources:
+All things .gitignore(https://www.toptal.com/developers/gitignore/)
+
 https://jekyllrb.com/resources/
 
 https://github.com/academicpages/academicpages.github.io
