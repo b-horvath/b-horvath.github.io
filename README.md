@@ -6,7 +6,7 @@ Resources that helped me during my masters studies:
 
 
 Resources:
-All things .gitignore(https://www.toptal.com/developers/gitignore/)
+[Create easy .gitignore files](https://www.toptal.com/developers/gitignore/)
 
 https://jekyllrb.com/resources/
 
