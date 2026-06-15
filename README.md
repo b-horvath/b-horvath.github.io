@@ -6,6 +6,13 @@ Resources that helped me during my masters studies:
 
 
 Resources:
+Formatting for Success in Prof. Volkamer's class (and others)
+each.py
+
+#verbose description re: what the function takes in (as arguments) and then outputs respectively
+def 
+
+
 [Create easy .gitignore files](https://www.toptal.com/developers/gitignore/)
 
 https://jekyllrb.com/resources/
