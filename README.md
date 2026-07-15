@@ -4,7 +4,7 @@ Resources that helped me during my masters studies:
 
 [LaTeX to Image](https://latex2image.joeraut.com/) - for inserting into ppt 
 
-
+https://serviceportal.hiz-saarland.de/csp - VPN guide for connecting to uni wifi remotely
 Resources:
 Formatting for Success in Prof. Volkamer's class (and others)
 each.py
